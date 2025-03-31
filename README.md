@@ -1,11 +1,17 @@
-# Cybersecurity  
+# Cybersecurity
 
-This repository contains various cybersecurity-related projects, tools, and resources. It includes scripts, challenges, and research in areas such as penetration testing, cryptography, network security, and ethical hacking.  
+This repository contains various projects and resources related to cybersecurity, focusing on cryptographic techniques and password security.
 
-## 📌 Contents  
+## 📂 Contents
 
-- 🔐 **Security Tools** – Scripts and utilities for security analysis and testing  
-- 🛡️ **Penetration Testing** – Resources and tools for ethical hacking and vulnerability assessment  
-- 🔑 **Cryptography** – Implementations of encryption, hashing, and other cryptographic techniques  
-- 📡 **Network Security** – Scripts for analyzing and securing networks  
-- 📚 **Cybersecurity Challenges** – Solutions to CTFs, wargames, and other security challenges  
+- **Password Cracking**: Tools and scripts for testing password strength and recovering lost passwords.
+- **Public Key Cryptography and Hashing**: Implementations and examples demonstrating public key cryptographic methods and hashing algorithms.
+- **Symmetric Cryptography**: Resources related to symmetric encryption techniques and their applications.
+
+## 🚀 Getting Started
+
+To explore the projects:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ltfranks/Cybersecurity.git
